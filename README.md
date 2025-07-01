@@ -2,10 +2,6 @@
 
 Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de aplicar técnicas de análise de dados e inteligência artificial para extrair insights estratégicos a partir de relatórios reais de vendas em marketplaces.
 
-# Projeto: Análise de Vendas com Inteligência Artificial
-
-Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de aplicar técnicas de análise de dados e inteligência artificial para extrair insights estratégicos a partir de relatórios reais de vendas em marketplaces.
-
 ## Objetivo
 
 Explorar o uso de prompts com ferramentas de inteligência artificial (como o ChatGPT) para analisar bases de dados, identificar padrões e gerar conclusões relevantes para o negócio, simulando a atuação prática de um analista de dados.
